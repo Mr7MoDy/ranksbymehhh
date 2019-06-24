@@ -3,9 +3,9 @@ const client = new Discord.Client()
 const prefix = "£" // تقدر تغيره
     const blow = new Set()
     client.on('message', message => {
-  var price = ''
-  var rank = ''
-  var sender = ''
+  var price = '£'
+  var rank = '£'
+  var sender = '£'
              let fouroulou = new Discord.RichEmbed()
           .setColor("#36393e")
           .setAuthor(message.author.tag,message.author.avatarURL)
