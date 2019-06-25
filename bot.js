@@ -157,7 +157,7 @@ const prefix = "£" // تقدر تغيره
           .setAuthor(message.author.tag,message.author.avatarURL)
           .setDescription(`**If you want to buy rank :**
                  ** Please transfer the amount below :**
-                 \`40k-probot\`
+                 \`60k-probot\`
                 ** To:<@591407427656613931>**
                  **Ex: #credit <@591407427656613931> 60000**
                   **To Exit Write Cancel**`)  
@@ -187,7 +187,7 @@ const prefix = "£" // تقدر تغيره
           .setAuthor(message.author.tag,message.author.avatarURL)
           .setDescription(`**If you want to buy rank :**
                  ** Please transfer the amount below :**
-                 \`90k-probot\`
+                 \`80k-probot\`
                 ** To:<@591407427656613931>**
                  **Ex: #credit <@591407427656613931> 80000**
                   **To Exit Write Cancel**`)  
