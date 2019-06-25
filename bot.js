@@ -179,7 +179,7 @@ const prefix = "£" // تقدر تغيره
             })
           collected.first().delete();
 }
-                if(collected.first().content === '.Great') {
+                if(collected.first().content === '£Great') {
           rank = 'Great S'
           price = 80000
           let mrx = new Discord.RichEmbed()
@@ -219,7 +219,7 @@ const prefix = "£" // تقدر تغيره
                  ** Please transfer the amount below :**
                  \`60k-probot\`
                 ** To:<@591407427656613931>**
-                 **Ex: #credit <@591407427656613931> 60000**
+                 **Ex: #credit <@591407427656613931> 100000**
                   **To Exit Write Cancel**`)  
       .setTimestamp()
                     message.channel.sendEmbed(mrx).then(m => {
