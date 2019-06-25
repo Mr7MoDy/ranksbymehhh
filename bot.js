@@ -85,7 +85,7 @@ const prefix = "£" // تقدر تغيره
             message.member.addRole(message.guild.roles.find(c => c.name == 'Good S'));
             blow.delete(message.author.id);
             }).catch(() => {
-                m.edit(`You took to long time please do the command \`.buy\` again`)
+                m.edit(`You took to long time please do the command \`£buy\` again`)
             })
            
             })
@@ -113,7 +113,7 @@ const prefix = "£" // تقدر تغيره
             message.member.addRole(message.guild.roles.find(c => c.name == 'Perfect S'));
             blow.delete(message.author.id);
             }).catch(() => {
-                m.edit(`**You took to long time please do the command \`.buy\` again**`)
+                m.edit(`**You took to long time please do the command £buy\` again**`)
             })
            
             })
@@ -143,7 +143,7 @@ const prefix = "£" // تقدر تغيره
             message.member.addRole(message.guild.roles.find(c => c.name == 'Great S'));
             blow.delete(message.author.id);
             }).catch(() => {
-                m.edit(`You took to long time please do the command \`.buy\` again`)
+                m.edit(`You took to long time please do the command \`£buy\` again`)
             })
            
             })
@@ -173,7 +173,7 @@ const prefix = "£" // تقدر تغيره
             message.member.addRole(message.guild.roles.find(c => c.name == 'Great S'));
             blow.delete(message.author.id);
             }).catch(() => {
-                m.edit(`You took to long time please do the command \`.buy\` again`)
+                m.edit(`You took to long time please do the command \`£buy\` again`)
             })
            
             })
@@ -203,7 +203,7 @@ const prefix = "£" // تقدر تغيره
             message.member.addRole(message.guild.roles.find(c => c.name == 'Great S'));
             blow.delete(message.author.id);
             }).catch(() => {
-                m.edit(`You took to long time please do the command \`.buy\` again`)
+                m.edit(`You took to long time please do the command \`£buy\` again`)
             })
            
             })
@@ -233,7 +233,7 @@ const prefix = "£" // تقدر تغيره
             message.member.addRole(message.guild.roles.find(c => c.name == 'Exelent S'));
             blow.delete(message.author.id);
             }).catch(() => {
-                m.edit(`You took to long time please do the command \`.buy\` again`)
+                m.edit(`You took to long time please do the command \`£buy\` again`)
             })
            
             })
