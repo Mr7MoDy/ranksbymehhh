@@ -32,10 +32,10 @@ const prefix = "£" // تقدر تغيره
                                      
  
  
-        For more information go to <#576447682030338058>`)  
+        For more information speak with   
       .setTimestamp()
     let filter = m => m.author.id === message.author.id;
-   if(message.content.startsWith(".buy")){
+   if(message.content.startsWith("£buy")){
        let user = client.users.get("591407427656613931"); // ايديك
       let user1 = client.users.get("591590366428397572"); // اي دي بروبوت
      //ههقهقهقه
