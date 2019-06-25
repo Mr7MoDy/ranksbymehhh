@@ -11,23 +11,23 @@ const prefix = "£" // تقدر تغيره
           .setAuthor(message.author.tag,message.author.avatarURL)
           .setDescription(`Our plans :
                                        ** -Good S **    
-                                       ** -Price:30k Probot **
+                                       ** -Price:20k Probot **
                                        ** -To Buy: \`£Good \` **
  
                                         ** -Perfect S **    
-                                        ** -Price:50k Probot **
+                                        ** -Price:40k Probot **
                                         ** -To Buy:\`£Perfect\` **
  
                                        ** -Exellent S **    
-                                       ** -Price:70k Probot **
+                                       ** -Price:60k Probot **
                                        ** -To Buy: \`£Exellent\` **
  
                                        ** -Great S **        
-                                       ** -Price:90k Probot **
+                                       ** -Price:80k Probot **
                                        ** -To Buy: \`£Great\` **
                                        
                                        ** -Epic S **        
-                                       ** -Price:90k Probot **
+                                       ** -Price:100k Probot **
                                        ** -To Buy: \`£Epic\` **
                                      
  
